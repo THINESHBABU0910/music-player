@@ -13,7 +13,7 @@ let allMusic = [
   {
     name: "Vaathi-Coming",
     artist: "Anirudh ",
-    img: "music-11",
+    img: "music-12",
     src: "music-1"
   },
   {
@@ -37,7 +37,7 @@ let allMusic = [
   {
     name: "Thalaivar-Intro",
     artist: "Anirudh",
-    img: "music-1",
+    img: "music-11",
     src: "music-11"
   },
   {
