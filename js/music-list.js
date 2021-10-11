@@ -14,7 +14,7 @@ let allMusic = [
   {
     name: "Vaathi-Coming",
     artist: "Anirudh ",
-    img: "music-12",
+    img: "music-22",
     src: "music-1"
   },
 
