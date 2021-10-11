@@ -14,7 +14,7 @@ let allMusic = [
     name: "Vaathi-Coming",
     artist: "Anirudh ",
     img: "music-11",
-    src: "music-1"
+    src: "music-11"
   },
   {
     name: "Radha krishna serial",
@@ -38,7 +38,7 @@ let allMusic = [
     name: "Thalaivar-Intro",
     artist: "Anirudh",
     img: "music-11",
-    src: "music-11"
+    src: "music-1"
   },
   {
     name: "Arabu-Naade",
